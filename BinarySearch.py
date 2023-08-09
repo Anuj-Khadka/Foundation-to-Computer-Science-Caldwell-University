@@ -5,7 +5,7 @@ def fill(N):
   x.sort()
   return x
 
-a = fill(1)
+a = fill(7)
 print(a)
 
 target = int(input("Please enter target"))
